@@ -61,7 +61,7 @@ public class program1 : MonoBehaviour
 ~~~
 
 ## Output:
-
+![hp](https://github.com/Sharmilasha/Rotating-the-Gaming-Object/assets/94506182/6b022a86-7c58-42d4-a7da-656dc91dc899)
 
 
 
