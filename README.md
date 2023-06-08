@@ -61,7 +61,7 @@ public class program1 : MonoBehaviour
 ~~~
 
 ## Output:
-![arvr1](https://github.com/Sharmilasha/Rotating-the-Gaming-Object/assets/94506182/30cc1368-386c-4669-82e5-8280b70d11c2)
+
 
 
 ## Result:
